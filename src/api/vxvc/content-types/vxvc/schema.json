@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vxvcs",
+  "info": {
+    "singularName": "vxvc",
+    "pluralName": "vxvcs",
+    "displayName": "vxvc"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "vcx": {
+      "type": "string"
+    }
+  }
+}
